@@ -3,9 +3,20 @@
 <div align="center">
 <h3>안녕하세요 Back-End 개발자가 되기 위해 노력하고 있는 강호룡입니다.</h3>
 
-<h4>더 나은 개발자가 될 수 있기 위해 매일매일 노력하며 공부합니다.<br>
-개발의 목적은 언젠가 나이 불문 누구나 쉽게 사용할 수 있는 웹 환경을 만들어보기 위함입니다.</h4>
+<h4>더 나은 개발자가 될 수 있기 위해 매일매일 노력하며 공부합니다.🌱<br>
+개발의 목적은 언젠가 나이 불문 누구나 쉽게 사용할 수 있는 웹 환경을 만들어보기 위함입니다.⚡</h4>
 </div>
+
+<h4>Back-end</h4>
+<div>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Java-437291?style=flat-square&logo=openjdk&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</div>
+<h4>Code Tools</h5>
+<div>
+<img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+</div>
+<h4>Front-end</h4>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
 <!--
 **KKANGII/KKANGII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
