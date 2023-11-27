@@ -8,7 +8,7 @@
 
 <h4>Hello. I'm HO-RYONG KANG</h4>
 
-<h5>I study every day trying to be a better developer.🌱
+<h5>I study every day trying to be a better developer.🌱<br>
 The purpose of development is to create a web environment that can be easily used by anyone of all ages someday.⚡</h5>
 </div>
 
