@@ -6,7 +6,10 @@
 <h4>더 나은 개발자가 될 수 있기 위해 매일매일 노력하며 공부합니다.🌱<br>
 개발의 목적은 언젠가 나이 불문 누구나 쉽게 사용할 수 있는 웹 환경을 만들어보기 위함입니다.⚡</h4>
 
-<h5>Hello. I'm HO-RYONG KANG</h5>
+<h4>Hello. I'm HO-RYONG KANG</h4>
+
+<h5>I study every day trying to be a better developer.🌱
+The purpose of development is to create a web environment that can be easily used by anyone of all ages someday.⚡</h5>
 </div>
 
 <h4>Back-end</h4>
