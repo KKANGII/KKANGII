@@ -21,7 +21,9 @@ The purpose of development is to create a web environment that can be easily use
 <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 </div>
 <h4>Front-end</h4>
+<div>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+</div>
 
 <!--
 **KKANGII/KKANGII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
