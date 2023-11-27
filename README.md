@@ -14,7 +14,7 @@ The purpose of development is to create a web environment that can be easily use
 
 <h4>Back-end</h4>
 <div>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Java-437291?style=flat-square&logo=openjdk&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Java-437291?style=flat-square&logo=openjdk&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 </div>
 <h4>Code Tools</h5>
 <div>
