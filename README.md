@@ -26,7 +26,7 @@ The purpose of development is to create a web environment that can be easily use
 </div>
 <h4>Co-work Tools</h4>
 <div>
-<img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=github&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=github&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/GoogleDocs-4285F4?style=flat-square&logo=googledocs&logoColor=white"/>
 </div>
 
 <!--
